@@ -1,0 +1,177 @@
+---
+layout: single-post
+title: Sample Post
+category: testing 1
+imgSrc: ../img/piqora_single_category_list_img.jpg
+author: Bob Ki Marley
+authorPp: ../img/authorPp/bob ki marley.png
+excerpt: They asked him, then, whether to live or die was a matter of his own sovereign will and pleasure. He answered, certainly. In a word, it was Queequeg's conceit...
+---
+
+
+  <section class="piqora_single_v3_header">
+    	<div class="sc-content-list">
+            	<figure class="piqora_sc_list_img"> <img alt="" src="../img/post-header/{{page.title}}.jpg">
+                
+                <!---------- Overlay tab start-------->
+                <div class="piqora_sc_list_img-overlayo">
+                	<div class="piqora_sc_list_img-overlay-content">
+                        <h5><a href="{{ site.baseurl }}/category/{{ page.category }}">{{ page.category }}</a></h5>
+                        <h4><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h4>
+                        <ul>
+                         <li><i class="fa fa-clock-o"> </i> Nov 13, 14</li>
+                         <li><i class="fa fa-heart-o"> </i>  17 </li>
+                         <li><i class="fa fa-comment-o"> </i>  268 </li>
+                        <div class="clear"></div> 
+                        </ul>
+                    <div class="clear"></div>    
+                    </div>
+                </div>
+            	<!---------- Overlay tab end-------->
+                 </figure>
+                
+            <div class="clear"></div>    
+            </div>
+    </section>
+	
+    
+    <div class="clear"></div>  
+    
+    
+    <section class="piqora_single_v3_content-tab">
+    	<div class="thumbnail-acdetail-txt">
+                	<div class="piqora_sc_list_dis-name">
+                    	<img src="../img/authorPp/{{ page.author }}.png" alt=""/> 
+                        <span>By:  <a href="{{ site.baseurl }}/author/{{ page.author }}"> {{ page.author }}</a></span>
+                        </div>
+                </div>
+        
+        <p><span>W</span>ith a blow from the top-maul Ahab knocked off the steel head of the lance, and then handing to the mate the long iron rod remaining, bade him hold it upright, without its touching the deck. Then, with <strong>the maul</strong>, after repeatedly smiting the upper end of this iron rod, he placed the blunted needle endwise on the top of it, and less strongly hammered that, several times, the mate still holding the rod as before. Then going <a href="">through some</a> small strange motions with it—whether indispensable to the magnetizing of the steel, or merely intended to augment the awe of the crew, is uncertain.</p>
+        
+        
+        <div class="piqora_single_v3-quote">
+            <span>"</span> 
+            <h3> Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab.  </h3>
+            <span class="right-quote-mark">"</span> 
+        </div>
+
+
+<div class="clear"></div>
+    
+    
+    	<p>Oh, grassy glades! oh, ever vernal endless landscapes in the soul; in ye,—though long parched by the dead drought of the earthy life,—in ye, men yet may roll, like young horses in new morning clover; and for some few fleeting moments, feel the cool dew of the life immortal on them. </p>
+        
+        
+        
+        <div class="piqora_single_v3-share-post">
+        	<h3><strong>Share</strong> this post</h3>
+            addthis code goes here
+            </div>
+        
+        
+        <div class="piqora_single_v3-full-profile">
+        	<img src="../img/authorPp/{{ page.author }}.png" alt="" />
+            <h3><strong>BY:</strong>  <a href="{{ site.baseurl }}/author/{{ page.author }}"> {{ page.author }}</a></h3>
+            <p>Then going through some small strange motions with it—whether indispensable to the magnetizing of the steel, or merely intended to augment the awe of the crew.</p>
+            <ul>
+            	<li><a href="" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            	<li><a href="" target="_blank"><i class="fa fa-facebook"></i></a></li>
+            	<li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+            	<li><a href="" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+            </ul>
+        </div>
+        
+    
+    </section>  
+ 
+ <div class="clear"></div>   
+    
+    
+    <section class="piqora_single_v3_category-tab">
+    	<div class="piqora_single_v3_category">
+        	<h3><strong>MORE</strong> IN CATEGORY</h3>
+            
+            {% for post in site.posts limit:6 %}
+            {% if post.category == page.category %}
+            
+            <div class="piqora_single_v3_category-list">
+                <ul>
+                	<li>
+                    	<a href="{{ site.baseurl }}{{ post.url }}">
+                        <figure class="morecat-leftthumb"><img src="../img/piqora_single_v3-c1.jpg" alt=""/></figure>
+                        <div>
+                            <p> {{ post.title }} </p>
+                            <span><i class="fa fa-clock-o"></i> Nov 13, 14 </span>
+                        </div></a>
+                    </li>  
+                </ul>
+            </div>
+            {% endif %}
+            {% endfor %}
+      <div class="clear"></div>
+        </div>
+    </section>
+    
+    
+    
+    <section class="piqora_single_v3_comment-tab">
+    	<div class="piqora_single_v3_comment">
+        	<h3>COMMENTS</h3>
+            <div class="piqora_single_v3_comment-calc">
+            	<span class="piqora_single_v3_comment-count"> 1 comment </span>   
+                <span class="piqora_single_v3_fav-count"> <i class="fa fa-star"> </i> <div class="fav-box"> 0 </div> </span>
+            </div>
+
+ <div class="clear"></div>           
+           
+            <div class="piqora_single_v3_comment-area">
+            	<span> <img src="img/piqora_single_v3-comment-man.jpg" alt=""/> </span>
+                <input type="text" placeholder="Leave a message..." />
+            </div>
+        
+ <div class="clear"></div>           
+        
+            <div class="piqora_single_v3_comment-reply">
+            	<ul>
+                	<li>
+                    <a href="" class="piqora_single_v3-active"> Best <i class="fa fa-caret-down"></i> </a>
+                    <a href=""> Community </a>
+                    </li>
+                    <li>
+                    <a href="">Share <i class="fa  fa-share-square-o"></i></a>
+                    <a href=""><i class="fa fa-cog"></i> <i class="fa fa-caret-down"> </i></a>
+                    </li>
+                 <div class="clear"></div>   
+                </ul>
+<div class="clear"></div>   
+            </div>
+            
+            <div class="piqora_single_v3_comment-area">
+            	<span> <img src="img/piqora_single_v3-comment-man.jpg" alt=""/> </span>
+                <div class="piqora_single_v3_comment-reply-list">
+                    <p> Gavin Hoffman <font> 5 hours ago </font> </p>
+                    <p>Aenean pulvinar dui a faucibus fermentum. Etiam dolor ac mauris pellentes.</p>
+                </div>
+<div class="clear"></div>   
+                <div class="piqora_single_v3_comment-area-arrow-bt">
+                	<a href=""><i class="fa fa-angle-up"></i></a>  | &nbsp;&nbsp;
+                	<a href=""><i class="fa fa-angle-down"></i></a>
+                    <a href=""> Reply </a>
+                    <a href=""> Share <i class="fa fa-angle-right"></i></a>
+                </div>
+                
+<div class="clear"></div> 
+				
+                <div class="piqora_single_v3_comment-subscribe">
+                	<a href=""><i class="fa fa-rss"></i>Comment feed</a>
+                	<a href=""><i class="fa fa-envelope-o"></i>Subscribe via email</a>
+                	<a href=""><img src="img/disque.jpg" alt=""/></a>
+                </div>  
+            </div>
+        
+        </div>
+    
+    </section>
+    
+    <div class="clear"></div>
+    

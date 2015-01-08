@@ -1,0 +1,79 @@
+---
+layout: author-dir
+title:  Author - Nick Mueller
+author: Nick Mueller
+description:  Nick is Head of Content Marketing at Piqora. Before joining Piqora he led content teams at Gawker Media & DARPA. 
+author-desc: Nick is Head of Content Marketing at Piqora. Before joining Piqora he led content teams at Gawker Media & DARPA. 
+overview: true
+authorLinkedin: http://linkedin.com/in/nickmueller
+authorTwitter: https://twitter.com/nickmueller
+---  
+        
+        <section class="sc-page-content">
+        
+        	<div class="piqora_single_author_dis">
+            	<figure class="piqora_single_author_image">
+                	<img src="../img/authorPp/{{ page.author }}.png" alt=""/>
+                </figure>
+                
+                <div class="piqora_single_author_detail">
+                	<h2>{{ page.author }}</h2>
+                    <p>{{ page.author-desc }}</p>
+                    <ul class="piqora_single_author_social">
+                    	<li class="no-left-mar"><a href="{{ page.authorTwitter }}" target="_blank"><i class="fa fa-twitter">&nbsp;</i></a></li>
+                    	<li><a href="{{ page.authorLinkedin }}" target="_blank"><i class="fa fa-linkedin">&nbsp;</i></a></li>
+                    </ul>
+                    </ul>
+                </div>
+            
+            <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        
+        
+        
+        	<h2 class="sc-page-title-author-name"> {{ page.author }}'s ARTICLES </h2> 
+            
+            
+            {% for post in site.posts limit:6 %}
+            {% if post.author == page.author %}
+            <div class="sc-content-list">
+            	<figure class="piqora_sc_list_img"><img src="../img/piqora_single_category_list_img.jpg" alt=""/>
+                
+                <!---------- Overlay tab start-------->
+                <div class="piqora_sc_list_img-overlayoo">
+                	<div class="piqora_sc_list_img-overlayoo-content">
+                         <h5><a href="{{ site.baseurl }}/category/{{ post.categories }}">{{ post.categories }}</a></h5>
+                        <h4><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></h4>
+                        <ul>
+                         <li><i class="fa fa-clock-o"> </i> {{ post.date | date: '%B %d, %Y' }}</li>
+                         <!--<li ><i class="fa fa-heart-o"> </i>  17 </li>-->
+                         <li ><i class="fa fa-comment-o"> </i>  <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread">0</a> </li>
+                        <div class="clear"></div> 
+                        </ul>
+                    <div class="clear"></div>    
+                    </div>
+                </div>
+            	<!---------- Overlay tab end-------->
+                </figure>
+                
+                <div class="piqora_sc_list_dis">
+                <div class="thumbnail-acdetail-txt">
+                	<div class="piqora_sc_list_dis-name">
+                    	<img src="../img/authorPp/{{ post.author }}.png" alt=""/> 
+                        <span>By:  <a href="{{ site.baseurl }}/author/{{ post.author }}">{{post.author}}</a></span>
+                        </div>
+                </div>
+                	
+                    <p> {{ post.content | strip_html | truncatewords: 20 }} </p>
+                   <a href="{{ site.baseurl }}{{ post.url }}" class="read-button">Read full article</a> 
+                </div>
+            <div class="clear"></div>    
+            </div>
+        {% endif %}
+  {% endfor %}
+            
+        
+        </section>
+        
+        

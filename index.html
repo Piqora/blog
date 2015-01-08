@@ -1,0 +1,158 @@
+---
+layout: author
+title:  Blog
+description:  This is Piqora's Blog Home Page
+overview: true
+---  
+        
+
+        
+        
+        <section class="sc-page-content">
+        
+        	<div class="piqora_v5a">
+                <figure class="pv5-topthumb"><img src="img/piqora_v5a-vm.jpg" alt=""/></figure>
+                <div class="piqora_v5a-vm">
+                    <p> <span>Visual Marketer:</span>  Actionable tips and 
+                    strategies on<strong> Pinterest Marketing, Instagram 
+                    Marketing</strong> and the <strong>whole visual web</strong> by Piqora.</p>
+                </div>
+             </div>
+           	<div class="piqora_v5a_right">
+                <ul class="piqora_v5a-vm-right-social">
+                    <li><a href="http://twitter.com/piqora" target="_blank"><i class="fa fa-twitter">&nbsp;</i></a></li>
+                    <li><a href="http://www.facebook.com/PiqoraSuite" target="_blank"><i class="fa fa-facebook">&nbsp;</i></a></li>
+                    <li><a href="https://www.linkedin.com/company/piqora" target="_blank"><i class="fa fa-linkedin">&nbsp;</i></a></li>
+                    <li><a href="https://plus.google.com/+Piqora" target="_blank"><i class="fa fa-google-plus">&nbsp;</i></a></li>
+                    <li><a href="http://www.pinterest.com/piqora/" target="_blank"><i class="fa fa-pinterest">&nbsp;</i></a></li>
+                    <li class="no-right-mar"><a href="http://instagram.com/piqora" target="_blank"><i class="fa fa-instagram">&nbsp;</i></a></li>
+               </ul>
+           </div>
+            <div class="clear"></div>
+        
+        </section>
+        
+            
+        <section class="vm-leftbar">
+           
+           <div class="vm-left-topsingle">
+               <div class="vmlefttopsingle-contentmain">
+                   {% for post in site.posts limit:1 %}
+                    <figure class="piqora_sc_list_img"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""/>
+                    
+                    <!---------- Overlay tab start-------->
+                    <div class="piqora_sc_list_img-overlay">
+                        <div class="vmlefttopsingle-overlaycontent-inr">
+                            <h5><a href="{{ site.baseurl }}/category/{{ post.categories }}.html"> {{ post.categories }} </a></h5>
+                            <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+                            <ul>
+                             <li><i class="fa fa-clock-o"> </i> {{ post.date | date: '%B %d, %Y' }}</li>
+                             <!--<li ><i class="fa fa-heart-o"> </i>  17 </li>-->
+                             <li ><i class="fa fa-comment-o"> </i>  <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread">0</a> </li>
+                            <div class="clear"></div> 
+                            </ul>
+                        <div class="clear"></div>    
+                        </div>
+                    </div>
+                    <!---------- Overlay tab end-------->
+                    </figure>
+                   {% endfor %}
+                <div class="clear"></div>    
+                </div>
+           </div>
+            <div class="clear"></div>
+            
+           <div class="vmleft-thumblistingmain">
+           {% for post in site.posts offset:1 limit:4 %}
+           		<div class="vmleft-thumb-list">
+                <div class="vmleft-thumb-list-inr">
+            	<figure class="piqora_sc_list_img"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""/>
+                
+                <!---------- Overlay tab start-------->
+                <div class="piqora_sc_list_img-overlay">
+                	<div class="piqora_sc_list_img-overlay-content">
+                        <h5><a href="{{ site.baseurl }}/category/{{ post.categories }}"> {{ post.categories }} </a></h5>
+                        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+                        <ul>
+                         <li><i class="fa fa-clock-o"> </i> {{ post.date | date: '%B %d, %Y' }}</li>
+                         <!--<li ><i class="fa fa-heart-o"> </i>  17 </li>-->
+                         <li ><i class="fa fa-comment-o"> </i>  <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread">0</a> </li>
+                        <div class="clear"></div> 
+                        </ul>
+                    <div class="clear"></div>    
+                    </div>
+                </div>
+            	<!---------- Overlay tab end-------->
+                </figure>
+                
+                <div class="piqora_sc_list_dis">
+                <div class="thumbnail-acdetail-txt">
+                	<div class="piqora_sc_list_dis-name">
+                    	<img src="img/authorPp/{{ post.author }}.png" alt=""/> 
+                        <span>By:  <a href="{{ site.baseurl }}/author/{{ post.author }}">{{ post.author }}</a></span>
+                        </div>
+                </div>
+                	
+                    <p> {{ post.content | strip_html | truncatewords: 20 }} </p>
+                   <a href="{{ site.baseurl }}{{ post.url }}" class="read-button">Read full article</a> 
+                </div>
+            <div class="clear"></div>    
+            </div>
+            </div>
+            
+           
+            {% endfor %}
+        </div>
+        </section>   
+        
+        <aside class="vm-rightbar">
+        	<section class="newsletter-tab">
+            	<h3>get the <br>
+                <strong class="nl-strong">piqora</strong> <br>
+                newsletter
+                </h3>
+                <input type="text" class="newsletter-email-txtbox" placeholder="your email" />
+                <div class="clear"></div>
+                <input type="submit" class="newsletter-btn" value="join" />
+            	<div class="clear"></div>
+            </section>
+            <div class="clear"></div>
+            
+            <section class="pv5-topposts">
+            	<h3>TOP POSTS</h3>
+                {% for post in site.posts %}
+                {% if post.topPost == true %}
+                <div class="pv5-postlists">
+                
+                	<div class="pv5-tplist">
+                    	<a href="{{ site.baseurl }}{{ post.url }}">
+                    	<figure class="pv5-tpthumb">
+                        	<img src="{{ site.baseurl }}/{{ post.image }}" alt=""/>
+                        </figure>
+                    	<div class="pv5-rightcontent">
+                        	<h4>{{ post.title }}</h4>
+                            <p class="pv5-postdate"><i class="fa fa-clock-o"></i>{{ post.date | date: '%B %d, %Y' }}</p>
+                        </div>
+                        </a>
+                        <div class="clear"></div>
+                    </div>
+                    {% endif %}
+            {% endfor %}
+                   
+                
+                </div>
+                
+                
+            
+            </section>
+        
+        
+        
+        </aside>
+        <div class="clear"></div>
+        
+        <!--<div class="pv5_loadmore_tab">
+        	<a href="#">Load more articles</a>
+        </div>-->
+        
+        
