@@ -1,0 +1,114 @@
+{% include top.html %}
+{% include header.html %}  
+  <section class="piqora_single_v3_header">
+    	<div class="sc-content-list">
+            	<figure class="piqora_sc_list_img"> <img src="{{ site.baseurl }}/{{ page.image }}" />
+                
+                <!---------- Overlay tab start-------->
+                <div class="piqora_sc_list_img-overlayo">
+                	<div class="piqora_sc_list_img-overlay-content">
+                        <h5><a href="{{ site.baseurl }}/category/{{ page.categories }}">{{ page.categories }}</a></h5>
+                        <h4><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h4>
+                        <ul>
+                         <li><i class="fa fa-clock-o"> </i> {{ page.date | date: '%B %d, %Y' }}</li>
+                         <!--<li><i class="fa fa-heart-o"> </i>  17 </li>-->
+                         <li><i class="fa fa-comment-o"> </i><a href="{{ site.baseurl }}{{ page.url }}#disqus_thread"> First article</a> </li>
+                        <div class="clear"></div> 
+                        </ul>
+                    <div class="clear"></div>    
+                    </div>
+                </div>
+            	<!---------- Overlay tab end-------->
+                 </figure>
+            	</div>
+                
+            <div class="clear"></div>    
+            </div>
+    </section>
+	
+    
+    <div class="clear"></div>  
+    
+    
+    <section class="piqora_single_v3_content-tab">
+    	<div class="thumbnail-acdetail-txt">
+                	<div class="piqora_sc_list_dis-name">
+                    	<img src="{{ site.baseurl }}/img/authorPp/{{ page.author }}.png" alt=""/> 
+                        <span>By:  <a href="{{ site.baseurl }}/author/{{ page.author }}"> {{ page.author }}</a></span>
+                        </div>
+                </div>
+    
+        
+        <p>{{content}}</p>
+        </section>
+        
+         <div class="piqora_single_v3-share-post">
+        	<h3><strong>Share</strong> this post</h3>
+            <span class='st_sharethis_large' displayText='ShareThis'></span>
+<span class='st_facebook_large' displayText='Facebook'></span>
+<span class='st_twitter_large' displayText='Tweet'></span>
+<span class='st_linkedin_large' displayText='LinkedIn'></span>
+<span class='st_pinterest_large' displayText='Pinterest'></span>
+<span class='st_email_large' displayText='Email'></span>
+            </div>
+ <div class="clear"></div>   
+  <div class="clear"></div>   
+  
+  
+ <div class="piqora_single_v3-full-profile">
+        	<img style="border-radius:100px;" src="{{ site.baseurl }}/img/authorPp/{{ page.author }}.png" alt="" />
+            <h3><strong>By:</strong>  <a href="{{ site.baseurl }}/author/{{ page.author }}"> {{ page.author }}</a></h3>
+        </div>    
+    <section class="piqora_single_v3_category-tab">
+    	<div class="piqora_single_v3_category">
+        	<h3 style="text-transform:uppercase;"><strong>MORE</strong> IN {{ page.categories }}</h3>
+            
+            {% for post in site.posts limit:6 %}
+            {% if post.category == page.category %}
+            
+            <div class="piqora_single_v3_category-list">
+                <ul>
+                	<li>
+                    	<a href="{{ site.baseurl }}{{ post.url }}">
+                        <figure class="morecat-leftthumb"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""/></figure>
+                        <div>
+                            <p class="ellipsis-container clamped clamped-2">
+    <span class="ellipsis">
+         {{ post.title }} </p></span>
+                        </div></a>
+                    </li>  
+                </ul>
+            </div>
+            {% endif %}
+            {% endfor %}
+      <div class="clear"></div>
+        </div>
+    </section>
+    
+    
+    
+    <section class="piqora_single_v3_comment-tab">
+    	<div class="piqora_single_v3_comment">
+        	<h3>COMMENTS</h3>
+           <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'piqora'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+        
+        </div>
+    
+    </section>
+    
+    <div class="clear"></div>
+
+  {% include footer.html %}

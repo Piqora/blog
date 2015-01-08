@@ -1,0 +1,42 @@
+---
+layout: default-dir
+title: Instagram Marketing
+category: Instagram Marketing
+overview: true
+---
+
+        <section class="sc-page-content">
+        	<h2 class="sc-page-title">{{ page.category }} </h2> 
+            
+            {% for post in site.posts %}
+            <div class="sc-content-list">
+            	<figure class="piqora_sc_list_img"><img src="{{ site.baseurl }}/{{ post.image }}" alt=""/>
+                
+                <!---------- Overlay tab start-------->
+                <div class="piqora_sc_list_img-overlayoo">
+                	<div class="piqora_sc_list_img-overlayoo-content">
+                        <h5><a href="{{ site.baseurl }}/category/{{ post.categories }}"> {{ post.categories }} </a></h5>
+                        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+                        <ul>
+                         <li><i class="fa fa-clock-o"> </i> {{ post.date | date: '%B %d, %Y' }}</li>
+                         <!--<li ><i class="fa fa-heart-o"> </i>  17 </li>-->
+                         <li ><i class="fa fa-comment-o"> </i>  <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread">0</a> </li>
+                        <div class="clear"></div> 
+                        </ul>
+                    <div class="clear"></div>    
+                    </div>
+                </div>
+            	<!---------- Overlay tab end-------->
+                </figure>
+                
+                <div class="piqora_sc_list_dis">
+                	<div class="piqora_sc_list_dis-name"> <img src="../img/authorPp/{{ post.author }}.png" alt=""/> <span>By:  <a href="{{ site.baseurl }}/author/{{ post.author }}">{{ post.author }}</a></span> </div>
+                   <p> {{ post.content | strip_html | truncatewords: 20 }} </p>
+
+                   <a href="{{ site.baseurl }}{{ post.url }}" class="read-button">Read full article</a> 
+                </div>
+            <div class="clear"></div>    
+            </div>
+  {% endfor %}
+            
+        </section>
