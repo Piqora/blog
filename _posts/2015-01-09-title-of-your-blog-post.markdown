@@ -2,10 +2,10 @@
 author: Author Name
 date: 2015-01-09 10:34:00+00:00
 title: This is a bran new test post
-image: http://i.imgur.com/zpMXDKb.jpg
+image: /img/featuredImageHere.png
 categories:
 - CategoryNameHere
 layout: post
 ---
 
-Type your content here!
+Type your content here
