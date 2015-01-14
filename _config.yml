@@ -44,7 +44,7 @@ url: "http://piqora.com/"
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "http://piqora.com/blog"
-
+include: "/wp-content/"
 #
 # !! You don't need to change any of the configuration flags below !!
 #
