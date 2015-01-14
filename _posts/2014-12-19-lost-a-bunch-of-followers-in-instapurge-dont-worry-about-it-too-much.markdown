@@ -6,7 +6,7 @@ layout: post
 slug: lost-a-bunch-of-followers-in-instapurge-dont-worry-about-it-too-much
 title: 'Lost a Bunch of "Followers" in #Instapurge? Don''t Worry About It Too Much. '
 wordpress_id: 1869
-image: http://blog.piqora.com/wp-content/uploads/2014/12/Pacsun-Follower-hit.jpg
+image: wp-content/uploads/2014/12/Pacsun-Follower-hit.jpg
 categories: 
 - Instagram Marketing
 tags:
