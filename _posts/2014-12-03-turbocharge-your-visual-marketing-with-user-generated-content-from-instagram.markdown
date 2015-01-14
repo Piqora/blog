@@ -6,7 +6,7 @@ layout: post
 slug: turbocharge-your-visual-marketing-with-user-generated-content-from-instagram
 title: Turbocharge Your Visual Marketing With User-Generated Content from Instagram
 wordpress_id: 1809
-image: /img/piqora_single_v3_header-img.jpg
+image: /wp-content/uploads/2014/12/Audi-UGC-Blog.jpg
 categories:
 - Piqora Features
 tags:
