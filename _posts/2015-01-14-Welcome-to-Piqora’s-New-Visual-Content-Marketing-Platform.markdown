@@ -21,11 +21,11 @@ tags:
 We’re excited to announce two new products for 2015: Instagram Scheduler, which enables you to schedule in advance and publish a large volume of Instagram content, and TapShop, which allows brands to make their Instagram content shoppable, creating enhanced opportunities to drive revenue from Instagram.
 
 Instagram Scheduler is designed to allow marketers to organize, share and publish visual content, all in one place. You can easily and seamlessly schedule posts on Instagram via a simple mobile app reminder, and all of of your Instagram content will roll up into an integrated team calendar of scheduled visual content. This means saved time and spared headaches for social media managers and their teams.
-
+[(img/social_01.jpg)]
 “Social Media Managers have been waiting for an easy-to-use Instagram scheduler since the platform launched in 2010,” said Piqora CEO Sharad Verma. “This product allows social teams to plan and schedule their content for the coming week all at once, and quickly publish once they get the app reminder day-of. It was designed from the ground up to save time and make their day-to-day lives easier.”
-
+[(img/scheduler2.png)]
 Instagram is a <a href="http://www.fastcompany.com/3029395/bottom-line/how-the-most-successful-brands-dominate-instagram-and-you-can-too">terrific place to build communities and market products</a>, but until now there was a barrier between people seeing your products on Instagram and buying them online. We’ve overcome this obstacle with TapShop, a tool that allows brands to drive purchases directly from their Instagram profile.
-
+[(img/tapsho.png)]
 “Instagram has proved to be an outstanding platform for building authentic, emotional bonds with brand audiences. With all these consumers getting inspired by the photos that brands are sharing, there’s an opportunity to enable them to discover products on Instagram and quickly shop from there,” said Piqora CTO and co-founder Naveen Akunuri.  “TapShop is our solution; Instagrammers just need to “Like” a brand’s photo and they will automatically receive an email with information on how to purchase the product.”
 
 Here’s how it works:
