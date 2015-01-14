@@ -16,7 +16,7 @@ tags:
 - instagram scheduler
 - instagram analytics
 ---
-<i>Instagram Scheduler and Shoppable Instagram Product, TapShop let you Seamlessly Publish and Manage Content, Drive Revenue, and Analyze and Improve Your Results</i>
+<i>Instagram Scheduler and TapShop let you Seamlessly Publish and Manage Content, Drive Revenue, and Analyze and Improve Your Results on Instagram</i>
 
 We’re excited to announce two new products for 2015: Instagram Scheduler, which enables you to schedule in advance and publish a large volume of Instagram content, and TapShop, which allows brands to make their Instagram content shoppable, creating enhanced opportunities to drive revenue from Instagram.
 
