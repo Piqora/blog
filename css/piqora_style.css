@@ -1,5 +1,6 @@
 body { padding:0; margin:0; font-family:'Source Sans Pro';}
 a{text-decoration:none; color:#fff;}
+h4 a {color: #fff !important;}
 a:hover{color:#FFDECC;}
 footer{clear:both !important;}
 .wrapper{ width:100%; height:100%;}
