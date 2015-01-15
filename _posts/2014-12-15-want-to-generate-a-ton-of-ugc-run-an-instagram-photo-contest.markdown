@@ -6,7 +6,7 @@ layout: post
 slug: want-to-generate-a-ton-of-ugc-run-an-instagram-photo-contest
 title: Want to Generate a Ton of UGC? Run an Instagram Photo Contest!
 wordpress_id: 1819
-image: /wp-content/uploads/2014/12/OhWhatFun.jpg
+image: http://blog.piqora.com/wp-content/uploads/2014/12/OhWhatFun.jpg
 categories:
 - Industry Insights
 tags:
