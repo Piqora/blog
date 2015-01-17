@@ -1,7 +1,7 @@
 ---
 author: Sam Osborn
 comments: true
-date: 2014-01-14
+date: 2014-01-14 06:04:01+00:00
 layout: post
 slug: Welcome-to-Piqora’s-New-Visual-Content-Marketing-Platform
 title: Welcome to Piqora’s New-Visual Content Marketing Platform
