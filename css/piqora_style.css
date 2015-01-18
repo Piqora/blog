@@ -10,6 +10,7 @@ footer{clear:both !important;}
 .rigth{ float:right!important;}
 .dis-inline-blk{ display:inline-block!important;}
 h4 {font-family:'Source Sans Pro' !important;}
+p {font-family:'Source Sans Pro' !important;}
 
 ::selection{color:#fff; background:#f78074;}
 ::-moz-selection{color:#fff; background:#f78074;} 
