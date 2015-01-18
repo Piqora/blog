@@ -110,7 +110,13 @@ line-height: auto;
 .pv5-topthumb{float:left; margin:40px 0; text-align:center; width:24.5%;}
 .piqora_v5a img{ width:148px; height:105px; }
 .piqora_v5a-vm{float:right; width:75.5%;}
-.piqora_v5a-vm p{ font-size:30px; color:#76868a; font-weight:300; line-height: normal; margin: 30px auto;}
+.piqora_v5a-vm p{
+    color: #76868a;
+    font-size: 27px;
+    font-weight: 300;
+    line-height: 40px;
+    margin: 30px auto;
+}
 .piqora_v5a-vm p span{ color:#a0c5ce; font-weight:600;}
 .piqora_v5a-vm p strong{ font-weight:600;}
 .piqora_v5a_right{width:30%; float:right;}
