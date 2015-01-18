@@ -125,7 +125,7 @@ line-height: auto;
 
 .vm-left-topsingle{display:block; padding:50px 0;}
 .vmlefttopsingle-contentmain{position:relative; display:block;}
-.vmlefttopsingle-contentmain .piqora_sc_list_img img{width:100%; height:auto;}
+.vmlefttopsingle-contentmain .piqora_sc_list_img img{width:100%; height:360px;}
 .vmlefttopsingle-contentmain .piqora_sc_list_img-overlay{display:block; width:100%;}
 .vmlefttopsingle-contentmain .piqora_sc_list_img{overflow:hidden;}
 .vmlefttopsingle-contentmain .piqora_sc_list_img-overlay{/*height:405px;*/}
