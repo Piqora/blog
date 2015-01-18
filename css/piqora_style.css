@@ -9,7 +9,7 @@ footer{clear:both !important;}
 .no-left-mar{ margin-left:0!important;}
 .rigth{ float:right!important;}
 .dis-inline-blk{ display:inline-block!important;}
-.h4 {font-family:'Source Sans Pro' !important;}
+h4 {font-family:'Source Sans Pro' !important;}
 
 ::selection{color:#fff; background:#f78074;}
 ::-moz-selection{color:#fff; background:#f78074;} 
