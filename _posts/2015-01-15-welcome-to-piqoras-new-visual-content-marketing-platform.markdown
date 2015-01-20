@@ -1,20 +1,13 @@
 ---
+title: Welcome to Piqora’s New-Visual Content Marketing Platform
 author: Sam Osborn
 comments: true
-date: 2014-01-15 06:04:01+00:00
+date: 2014-01-20 06:04:01+00:00
 layout: post
 slug: welcome-to-piqoras-new-visual-content-marketing-platform
-title: Welcome to Piqora’s New-Visual Content Marketing Platform
 image: /img/scheduler1.png
 categories:
 - Piqora Features
-tags:
-- Influence
-- Social CRM
-- Social Media ROI
-- tapshop
-- instagram scheduler
-- instagram analytics
 ---
 _Instagram Scheduler and TapShop let you Seamlessly Publish and Manage Content, Drive Revenue, and Analyze and Improve Your Results on Instagram_
 
