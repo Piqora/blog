@@ -1,15 +1,16 @@
 ---
-title: Welcome to Piqora’s New-Visual Content Marketing Platform
+title: 'Welcome to Piqora’s New-Visual Content Marketing Platform'
 author: Sam Osborn
 comments: true
-date: 2014-01-20 06:04:01+00:00
+date: 2015-01-20 06:04:01+00:00
 layout: post
 slug: welcome-to-piqoras-new-visual-content-marketing-platform
-image: /img/scheduler1.png
+image: wp-content/uploads/2014/12/Pacsun-Follower-hit.jpg
 categories:
 - Piqora Features
 ---
-_Instagram Scheduler and TapShop let you Seamlessly Publish and Manage Content, Drive Revenue, and Analyze and Improve Your Results on Instagram_
+
+Instagram Scheduler and TapShop let you Seamlessly Publish and Manage Content, Drive Revenue, and Analyze and Improve Your Results on Instagram
 
 We’re excited to announce two new products for 2015: Instagram Scheduler, which enables you to schedule in advance and publish a large volume of Instagram content, and TapShop, which allows brands to make their Instagram content shoppable, creating enhanced opportunities to drive revenue from Instagram.
 
