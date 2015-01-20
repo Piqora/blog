@@ -5,7 +5,7 @@ comments: true
 date: 2015-01-20 06:04:01+00:00
 layout: post
 slug: welcome-to-piqoras-new-visual-content-marketing-platform
-image: wp-content/uploads/2014/12/Pacsun-Follower-hit.jpg
+image: img/piqora_single_v3_header-img.jpg
 categories:
 - Piqora Features
 ---
