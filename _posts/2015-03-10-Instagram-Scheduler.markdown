@@ -21,13 +21,13 @@ Our Instagram Scheduler makes visual storytelling and content marketing much eas
 
 allows social teams to plan and schedule their content for the coming weeks all at once. You simply upload your content into your Library, and select which images you’d like to schedule for publishing.
 
-![](../img/InstagramSchedulerBlog2.jpg)
+![]({{ site.url }}/img/InstagramSchedulerBlog2.jpg)
 
 When it’s time to push that content live, you receive an app reminder, allowing you to publish content with just a swipe. All of this means saved time and spared headaches for social media managers and their teams.
 
 Another key component of Piqora’s Visual Content Marketing Platform is our Advanced Pinterest Scheduler. This enables marketers to strategically share a huge volume of content on Pinterest by using Piqora’s automated content recommendations to schedule Pins when their audience is most active, or pinning over a specific time frame.
 
-![](../img/InstagramSchedulerBlog3.jpg)
+![]({{ site.url }}/img/InstagramSchedulerBlog3.jpg)
 
 Once you’ve selected your content for publishing, whether to Pinterest or Instagram, it will be displayed in an integrated team calendar, so everyone knows exactly what’s being published at all times. You can change scheduling from your phone, reorder photos, and easily add more content to your library; just drag and drop files or folders from your desktop, or use Piqora’s smart bookmarklet that automatically grabs the largest images and includes the product page URL when available.
 
