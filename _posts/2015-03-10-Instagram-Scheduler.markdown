@@ -6,7 +6,7 @@ layout: post
 slug: top-5-reasons-to-use-pinfluencer
 title: Instagram Scheduler - Simplify and Scale Your Visual Social Content Marketing
 wordpress_id: 54
-image: /blog/_posts/InstagramSchedulerBlog1.png
+image: /img/InstagramSchedulerBlog1.jpg
 categories:
 - Instagram Marketing
 tags:
