@@ -1,5 +1,5 @@
 ---
-author: shredder
+author: Sharad Verma
 date: 2012-08-27 03:11:55+00:00
 layout: post
 title: Mark Suster is not into cowboy hats and Influence score can't be one size fits
