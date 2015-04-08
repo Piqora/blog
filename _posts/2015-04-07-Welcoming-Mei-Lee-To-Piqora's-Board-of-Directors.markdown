@@ -4,7 +4,7 @@ comments: true
 date: 2015-04-07 13:15:23+00:00
 layout: post
 slug: Welcoming-Mei-Lee-To-Piqora's-Board-of-Directors
-title: 'Lost a Bunch of "Followers" in #Instapurge? Don''t Worry About It Too Much. '
+title: 'Welcoming Mei Lee To Piqora’s Board of Advisors'
 image: /img/mei-lee-blog-post-header.jpg
 categories: 
 - Piqora
