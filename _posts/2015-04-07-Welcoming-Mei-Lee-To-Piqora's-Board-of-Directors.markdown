@@ -17,7 +17,7 @@ topPost: true
 marketing, so when we got an opportunity to have Mei Lee, who was most recently Vice President of Marketing at Conde Nast, 
 to join a brainstorming call a few months ago, we obviously jumped at the chance.
 
-![]({{ https://www.linkedin.com/pub/mei-lee/0/429/1a3 }}/img/mei-lee-piqora.png)
+![]({{ site.url }}/img/mei-lee-piqora.png)
 
 The focus of the call was how Piqora can do an even better job of helping brands accelerate ROI from their visual marketing efforts, 
 and Mei’s extensive experience leading digital marketing teams really showed in the depth of her insights.
