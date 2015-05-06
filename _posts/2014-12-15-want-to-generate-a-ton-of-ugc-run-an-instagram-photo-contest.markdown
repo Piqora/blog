@@ -6,7 +6,7 @@ layout: post
 slug: want-to-generate-a-ton-of-ugc-run-an-instagram-photo-contest
 title: Want to Generate a Ton of UGC? Run an Instagram Photo Contest!
 wordpress_id: 1819
-image: /img/piqora_single_v3_header-img.jpg
+image: /img/UGCfoodblogpost.png
 categories:
 - Industry Insights
 tags:
@@ -21,7 +21,7 @@ tags:
 
 Instagram photo contests are awesome tools for [gaining followers, driving website traffic, moving audiences over from other networks like Facebook or Twitter, and promoting products.](http://blog.piqora.com/?p=1650) They are also the single most powerful resource brands can harness to harvest creative, high-quality User-Generated Content. As [we've mentioned before](http://blog.piqora.com/turbocharge-your-visual-marketing-with-user-generated-content-from-instagram/), incorporating UGC on your brand's Instagram profile and website can deliver some stunningly powerful benefits, such as enhanced audience retention, reach and brand loyalty, as well as being a great source of cost effective marketing content.
 
-[![Instagram Photo Contests are an integral part of West Elm's strategy for generating user-generated content](http://blog.piqora.com/wp-content/uploads/2014/12/OhWhatFun.jpg)](http://blog.piqora.com/wp-content/uploads/2014/12/OhWhatFun.jpg) [i]Instagram Photo Contests are an integral part of West Elm's strategy for harvesting User-Generated Content[/i]
+[![Instagram Photo Contests are an integral part of West Elm's strategy for generating user-generated content](http://blog.piqora.com/wp-content/uploads/2014/12/OhWhatFun.jpg)](http://blog.piqora.com/wp-content/uploads/2014/12/OhWhatFun.jpg)
 
 [West Elm](http://instagram.com/westelm), for example, relies heavily on UGC for their Instagram content. And while many of their posts are organic submissions from their fans, they regularly capitalize on photo contests to generate thousands of images that they then repurpose on their marketing channels.
 
