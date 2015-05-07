@@ -52,7 +52,7 @@ There are 2 main types of permission that brands can get to be able to use custo
 
 Implicit permissions are declarative statements or a general public notice where your brand says something like, “by using this #brandedhashtag you agree to our Terms Of Service and allow us as a brand to use the photo.” 
 
-![]({{ site.url }}getrightsblogpost2.png)
+![]({{ site.url }}/img/getrightsblogpost2.png)
 
 This notice can be posted on your website, blog, or social profile.
 
