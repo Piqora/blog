@@ -22,7 +22,7 @@ This post will attempt to answer each of those questions.
 
 First up:
 
-*“What type of UGC should we be using???”*
+<b>“What type of UGC should we be using?”</b>
 
 When you’re talking about user-generated photos for content marketing (pro tip: that’s what we’re talking about), there are three main types of UGC:
 <ol>
@@ -39,7 +39,7 @@ When you’re talking about user-generated photos for content marketing (pro tip
 <li>*Cons:* The quality level is varied since the users’ motivation was to win a prize.</li>
 
 <li>UGC images from individual users who feel a major connection to a brand, and include that brand’s hashtag – This is most meaningful type of UGC. It’s often the highest quality, and can be a clear indication of a user who’s a real brand advocate.</li>
-
+</ol>
 The natural next question is, “So how do we go from finding UGC from people who love our brand to getting permission to use it?”
 
 I’m so glad you asked.
