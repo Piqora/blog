@@ -28,15 +28,15 @@ When you’re talking about user-generated photos for content marketing (pro tip
 
 UGC images from bloggers and complimentary brands – this type of UGC, from influencers (who may or may not be paid), and friendly brands is great, but hard to build a strategy around.
 
-Pros: Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand.
+<strong>Pros:</strong> Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand.
 
-Cons: Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.
+<strong>Cons:</strong> Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.
 
 UGC images from a request or from a contest -- this type of UGC comes in bunches and is often pre-approved (according to the terms of your promotion).
 
-Pros: You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.
+<strong>Pros:</strong> You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.
 
-Cons: The quality level is varied since the users’ motivation was to win a prize.</li>
+<strong>Cons:</strong> The quality level is varied since the users’ motivation was to win a prize.</li>
 
 UGC images from individual users who feel a major connection to a brand, and include that brand’s hashtag – This is most meaningful type of UGC. It’s often the highest quality, and can be a clear indication of a user who’s a real brand advocate.
 
@@ -60,7 +60,7 @@ This allows your brand to get a supply of photos from your existing brand advoca
 
 Just be sure to given attribution to the photo creator and link back to the original Instagram photo URL.
 
-<h3>IExplicit Permissions:</h3>I
+<h3>Explicit Permissions:</h3>
 
 Explicit permission is when your brand reaches out to someone who posted a photo you want to get permission to reuse, and that person responds with a message that expresses consent.
 
