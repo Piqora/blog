@@ -52,6 +52,8 @@ There are 2 main types of permission that brands can get to be able to use custo
 
 Implicit permissions are declarative statements or a general public notice where your brand says something like, “by using this #brandedhashtag you agree to our Terms Of Service and allow us as a brand to use the photo.” 
 
+![]({{ site.url }}getrightsblogpost2.png)
+
 This notice can be posted on your website, blog, or social profile.
 
 Implicit permissions are great a way to secure blanket permissions for a lot of photos. In general, I usually recommend using your #brandhashtag for implicit permissions.
@@ -63,6 +65,8 @@ Just be sure to given attribution to the photo creator and link back to the orig
 <h4>Explicit Permissions:</h4>
 
 Explicit permission is when your brand reaches out to someone who posted a photo you want to get permission to reuse, and that person responds with a message that expresses consent.
+
+![]({{ site.url }}/img/getrightsblog1.png)
 
 Piqora’s rights messaging system can help your brand do this 1:1 reach out at scale by enabling you to personalize an Instagram comment asking for permission that the Instagram member can simply respond to with a comment that includes #yes<brand>. 
 
