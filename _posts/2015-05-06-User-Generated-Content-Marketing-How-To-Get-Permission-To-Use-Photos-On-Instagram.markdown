@@ -68,10 +68,10 @@ Explicit permission is when your brand reaches out to someone who posted a photo
 
 ![]({{ site.url }}/img/getrightsblog1.png)
 
-Piqora’s rights messaging system can help your brand do this 1:1 reach out at scale by enabling you to personalize an Instagram comment asking for permission that the Instagram member can simply respond to with a comment that includes #yes<brand>. 
+Piqora’s rights messaging system can help your brand do this 1:1 reach out at scale by enabling you to personalize an Instagram comment asking for permission that the Instagram member can simply respond to with a comment that includes #yesBRAND. 
 
 ![]({{ site.url }}/img/ugc-photorights3.jpg)
 
-Your brand message also contains a link to your Terms of Service. If that Instagram member responds with a “yes<brand>” hashtag, then Piqora’s UGC permission system will moves the image to the UGC-approved area of your photo library.
+Your brand message also contains a link to your Terms of Service. If that Instagram member responds with a “yesBRAND” hashtag, then Piqora’s UGC permission system will moves the image to the UGC-approved area of your photo library.
 
 Hopefully this post has made the concept of UGC photos and permissions more clear. If you still have any questions, please reach out – [we’re always happy to chat](http://www.piqora.com/get-a-demo/) in more detail about how to find, acquire, and publish UGC.
