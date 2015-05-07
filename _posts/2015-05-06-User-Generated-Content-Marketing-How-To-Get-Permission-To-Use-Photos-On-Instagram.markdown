@@ -26,13 +26,13 @@ First up:
 
 When you’re talking about user-generated photos for content marketing (pro tip: that’s what we’re talking about), there are three main types of UGC:
 
-<h5>UGC images from bloggers and complimentary brands – this type of UGC, from influencers (who may or may not be paid), and friendly brands is great, but hard to build a strategy around.</h5>
+<h4>UGC images from bloggers and complimentary brands – this type of UGC, from influencers (who may or may not be paid), and friendly brands is great, but hard to build a strategy around.</h4>
 
 Pros: Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand.
 
 Cons: Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.
 
-<h5>UGC images from a request or from a contest -- this type of UGC comes in bunches and is often pre-approved (according to the terms of your promotion).</h5>
+<h4>UGC images from a request or from a contest -- this type of UGC comes in bunches and is often pre-approved (according to the terms of your promotion).</h4>
 
 Pros: You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.
 
@@ -69,6 +69,8 @@ Explicit permission is when your brand reaches out to someone who posted a photo
 ![]({{ site.url }}/img/getrightsblog1.png)
 
 Piqora’s rights messaging system can help your brand do this 1:1 reach out at scale by enabling you to personalize an Instagram comment asking for permission that the Instagram member can simply respond to with a comment that includes #yes<brand>. 
+
+![]({{ site.url }}/img/ugc-photorights3.jpg)
 
 Your brand message also contains a link to your Terms of Service. If that Instagram member responds with a “yes<brand>” hashtag, then Piqora’s UGC permission system will moves the image to the UGC-approved area of your photo library.
 
