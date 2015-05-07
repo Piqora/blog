@@ -22,7 +22,7 @@ This post will attempt to answer each of those questions.
 
 First up:
 
-__“What type of UGC should we be using?”__
+__“What type of UGC should we be using???”__
 
 When you’re talking about user-generated photos for content marketing (pro tip: that’s what we’re talking about), there are three main types of UGC:
 
