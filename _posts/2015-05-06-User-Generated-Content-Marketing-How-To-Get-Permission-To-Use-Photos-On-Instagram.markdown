@@ -22,33 +22,33 @@ This post will attempt to answer each of those questions.
 
 First up:
 
-<b>“What type of UGC should we be using?”</b>
+<h2>“What type of UGC should we be using?”</h2>
 
 When you’re talking about user-generated photos for content marketing (pro tip: that’s what we’re talking about), there are three main types of UGC:
-<ol>
-<li>UGC images from bloggers and complimentary brands – this type of UGC, from influencers (who may or may not be paid), and friendly brands is great, but hard to build a strategy around.</li>
 
-<li>*Pros:* Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand.</li>
+UGC images from bloggers and complimentary brands – this type of UGC, from influencers (who may or may not be paid), and friendly brands is great, but hard to build a strategy around.
 
-<li>*Cons:* Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.</li>
+Pros: Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand.
 
-<li>UGC images from a request or from a contest -- this type of UGC comes in bunches and is often pre-approved (according to the terms of your promotion).</li>
+Cons: Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.
 
-<li>*Pros:* You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.</li>
+UGC images from a request or from a contest -- this type of UGC comes in bunches and is often pre-approved (according to the terms of your promotion).
 
-<li>*Cons:* The quality level is varied since the users’ motivation was to win a prize.</li>
+Pros: You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.
 
-<li>UGC images from individual users who feel a major connection to a brand, and include that brand’s hashtag – This is most meaningful type of UGC. It’s often the highest quality, and can be a clear indication of a user who’s a real brand advocate.</li>
-</ol>
+Cons: The quality level is varied since the users’ motivation was to win a prize.</li>
+
+UGC images from individual users who feel a major connection to a brand, and include that brand’s hashtag – This is most meaningful type of UGC. It’s often the highest quality, and can be a clear indication of a user who’s a real brand advocate.
+
 The natural next question is, “So how do we go from finding UGC from people who love our brand to getting permission to use it?”
 
 I’m so glad you asked.
 
-**How To Get Permission To Use Photos On Instagram**
+<h2>How To Get Permission To Use Photos On Instagram</h2>
 
 There are 2 main types of permission that brands can get to be able to use customer user-generated photos from Instagram: implicit permission and explicit permission.
 
-<b>Implicit Permissions:</b>
+<h3>Implicit Permissions:</h3>
 
 Implicit permissions are declarative statements or a general public notice where your brand says something like, “by using this #brandedhashtag you agree to our Terms Of Service and allow us as a brand to use the photo.” 
 
@@ -60,7 +60,7 @@ This allows your brand to get a supply of photos from your existing brand advoca
 
 Just be sure to given attribution to the photo creator and link back to the original Instagram photo URL.
 
-**Explicit Permissions:**
+<h3>IExplicit Permissions:</h3>I
 
 Explicit permission is when your brand reaches out to someone who posted a photo you want to get permission to reuse, and that person responds with a message that expresses consent.
 
