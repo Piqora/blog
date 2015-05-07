@@ -25,20 +25,20 @@ First up:
 *“What type of UGC should we be using???”*
 
 When you’re talking about user-generated photos for content marketing (pro tip: that’s what we’re talking about), there are three main types of UGC:
+<ol>
+<li>UGC images from bloggers and complimentary brands – this type of UGC, from influencers (who may or may not be paid), and friendly brands is great, but hard to build a strategy around.</li>
 
-- UGC images from bloggers and complimentary brands – this type of UGC, from influencers (who may or may not be paid), and friendly brands is great, but hard to build a strategy around.
+<li>*Pros:* Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand.</li>
 
-*Pros:* Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand. 
+<li>*Cons:* Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.</li>
 
-*Cons:* Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.
+<li>UGC images from a request or from a contest -- this type of UGC comes in bunches and is often pre-approved (according to the terms of your promotion).</li>
 
-- UGC images from a request or from a contest -- this type of UGC comes in bunches and is often pre-approved (according to the terms of your promotion).
+<li>*Pros:* You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.</li>
 
-*Pros:* You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.
+<li>*Cons:* The quality level is varied since the users’ motivation was to win a prize.</li>
 
-*Cons:* The quality level is varied since the users’ motivation was to win a prize.
-
-* UGC images from individual users who feel a major connection to a brand, and include that brand’s hashtag – This is most meaningful type of UGC. It’s often the highest quality, and can be a clear indication of a user who’s a real brand advocate.
+<li>UGC images from individual users who feel a major connection to a brand, and include that brand’s hashtag – This is most meaningful type of UGC. It’s often the highest quality, and can be a clear indication of a user who’s a real brand advocate.</li>
 
 The natural next question is, “So how do we go from finding UGC from people who love our brand to getting permission to use it?”
 
