@@ -14,9 +14,9 @@ tags:
 topPost: true
 ---
 
-So many marketers I’ve talked with recently – at our [San Francisco and New York mini-conferences on Visual Content Marketing](https://www.youtube.com/watch?v=2DYfu5NYyPs) – have said that doing more with user-generated photos is a priority. 
+So many marketers we’ve talked with recently – at our [San Francisco and New York mini-conferences on Visual Content Marketing](https://www.youtube.com/watch?v=2DYfu5NYyPs) – have said that doing more with user-generated photos is a priority. 
 
-The big questions I keep hearing are, “What type of UGC should we be using?” and, “How do we get permission to the UGC photos we want to reuse?”
+The big questions we keep hearing are, “What type of UGC should we be using?” and, “How do we get permission to the UGC photos we want to reuse?”
 
 This post will attempt to answer each of those questions.
 
@@ -26,15 +26,15 @@ First up:
 
 When you’re talking about user-generated photos for content marketing (pro tip: that’s what we’re talking about), there are three main types of UGC:
 
-<h3>1. UGC images from bloggers and friendly brands</h3>
+<h3>1. UGC-style images from photographers and bloggers</h3>
 
 Pros: Often very high quality, and increases exposure of your brand to the audiences of the blogger or friendly brand.
 
-Cons: Not scalable. Unless you want to keep paying those blogger fees, or those brands are so friendly they’re OK to keep publishing for your brands benefit.
+Cons: These are high quality photos, but are really authentic customer photos and can become a very costly way to acquire photos, if you try to scale it beyond a 1 or 2 campaigns.
 
 <h3>2. UGC images from a posted request or Instagram contest</h3>
 
-Pros: You get to ask for exactly what you want, rights and permission to reuse are figured out in advance.
+Pros: You specify the terms in your ToS and are legally cleared right off the bat. Plus, you get to ask for exactly what you want.
 
 Cons: The quality level is varied since the users’ motivation was to win a prize.
 
@@ -42,9 +42,13 @@ Cons: The quality level is varied since the users’ motivation was to win a pri
 
 <h3>3. UGC images from individual users who feel a major connection to a brand</h3>
 
+Pros: These are your most authentic customer photos. Your fans visually celebrating your brand. The most authentic and best form of earned visual content.
+
+Cons: Not always easy to find in large enough quantities to use for a major campaign.
+
 The natural next question is, “So how do we go from finding UGC from people who love our brand to getting permission to use it?”
 
-I’m so glad you asked.
+So glad you asked.
 
 <h2>How To Get Permission To Use Photos On Instagram</h2>
 
@@ -52,9 +56,9 @@ There are 2 main types of permission that brands can get to be able to use custo
 
 <h3>Implicit Permissions:</h3>
 
-Implicit permissions are declarative statements or a general public notice where your brand says something like, “by using this #brandedhashtag you agree to our Terms Of Service and allow us as a brand to use the photo.” 
+Implicit permissions are declarative statements or a general public notice where your brand says something like, “by using this #brandedhashtag you agree to our Terms Of Service and allow us as a brand to use the photo.” For example, The Land of Nod uses this text:
 
-![]({{ site.url }}/img/getrightsblogpost2.png)
+["By using the hashtag #landofnod, users are agreeing to The Land of Nod's online terms and conditions, and allowing The Land of Nod to use your post and content."](http://www.landofnod.com/)
 
 This notice can be posted on your website, blog, or social profile.
 
@@ -70,9 +74,9 @@ Explicit permission is when your brand reaches out to someone who posted a photo
 
 ![]({{ site.url }}/img/getrightsblog1.png)
 
-Piqora’s rights messaging system can help your brand do this 1:1 reach out at scale by enabling you to personalize an Instagram comment asking for permission that the Instagram member can simply respond to with a comment that includes #yesBRAND. 
+Piqora’s rights messaging system makes getting explicit permission really easy for your brand. The personalized commenting feature enables you to reach out 1-to-1, which increases the chance of getting a "yes." Of course, it also enables you to scale your UGC collection, but simply clicking "get rights" on any photo you are interested in using. It's also easy for the creator to reply with #yesBRAND, and then wait to see their photo up on your brand's site.
 
-![]({{ site.url }}/img/ugc-photorights3.jpg)
+![]({{ site.url }}/img/image-4.png)
 
 Your brand message also contains a link to your Terms of Service. If that Instagram member responds with a “yesBRAND” hashtag, then Piqora’s UGC permission system will moves the image to the UGC-approved area of your photo library.
 
