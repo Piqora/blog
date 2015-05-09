@@ -78,6 +78,6 @@ Piqora’s rights messaging system makes getting explicit permission really easy
 
 ![]({{ site.url }}/img/image-4.png)
 
-Your brand message also contains a link to your Terms of Service. If that Instagram member responds with a “yesBRAND” hashtag, then Piqora’s UGC permission system will moves the image to the UGC-approved area of your photo library.
+Your brand message also contains a link to your Terms of Service. If that Instagram member responds with a “yesBRAND” hashtag, then Piqora’s UGC permission system will move the image to the UGC-approved area of your photo library.
 
-Hopefully this post has made the concept of UGC photos and permissions more clear. If you still have any questions, please reach out – [we’re always happy to chat](http://www.piqora.com/get-a-demo/) in more detail about how to find, acquire, and publish UGC.
+Hopefully this post has made the concept of UGC photos and permissions clearer. If you still have any questions, please reach out – [we’re always happy to chat](http://www.piqora.com/get-a-demo/) in more detail about how to find, acquire, and publish UGC.
