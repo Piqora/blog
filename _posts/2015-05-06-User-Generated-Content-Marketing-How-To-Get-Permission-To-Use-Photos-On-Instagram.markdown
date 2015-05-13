@@ -11,7 +11,6 @@ categories:
 tags:
 - Instagram
 - User-generated Content Marketing
-topPost: true
 ---
 
 So many marketers we’ve talked with recently – at our [San Francisco and New York mini-conferences on Visual Content Marketing](https://www.youtube.com/watch?v=2DYfu5NYyPs) – have said that doing more with user-generated photos is a priority. 
