@@ -5,7 +5,7 @@ date: 2015-05-13 20:58:28+00:00
 layout: post
 slug: visual-content-marketing-workflow
 title: The Emergence of Visual Content Marketing Workflows
-image: /img/piqora_single_v3_header-img.jpg
+image: /img/Piqora-Calendar-Workflow.jpg
 categories:
 - Visual Content Marketing
 tags:
